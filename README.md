@@ -1,7 +1,6 @@
 # 100K AI Career Planner — Claude Code Skill
 
 > A brutally honest, fully personalized 6-month plan to land a $100K AI job (or equivalent income through freelancing/consulting).
-
 ---
 
 ## What Is This?
