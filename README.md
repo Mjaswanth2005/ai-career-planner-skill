@@ -2,9 +2,6 @@
 
 > A brutally honest, fully personalized 6-month plan to land a $100K AI job (or equivalent income through freelancing/consulting).
 
-Built by **Ayush Singh** | [Second Brain Labs](https://secondbrainlabs.com)
-From the video: *"If I Wanted a $100K AI Job in 6 Months, I'd Do This"*
-
 ---
 
 ## What Is This?
